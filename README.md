@@ -1,5 +1,5 @@
 # SQL-Odev5 | ORDER BY | LIMIT ve OFFSET
-SQL-Odev5 | ORDER BY | LIMIT ve OFFSET
+SQL-Odev5 | ORDER BY | LIMIT ve OFFSET 
 
 www.patika.dev
 
